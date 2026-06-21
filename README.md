@@ -16,5 +16,4 @@ Aplicacao web responsiva para organizar treinos, alimentacao, evolucao corporal 
 - Next.js, React e TypeScript
 - PostgreSQL e Prisma
 - Tailwind CSS
-- Docker e Nginx
-
+- Docker
