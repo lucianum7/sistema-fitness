@@ -1,0 +1,2 @@
+ALTER TABLE "UserProfile"
+ADD COLUMN "activityLevel" TEXT NOT NULL DEFAULT 'MODERATE';

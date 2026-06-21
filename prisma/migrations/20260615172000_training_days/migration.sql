@@ -1,0 +1,1 @@
+ALTER TABLE "UserProfile" ADD COLUMN "trainingDays" TEXT[] NOT NULL DEFAULT ARRAY[]::TEXT[];

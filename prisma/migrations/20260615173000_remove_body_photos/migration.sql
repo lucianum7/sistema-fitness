@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS "BodyPhoto";
+DROP TABLE IF EXISTS "FileObject";
+DROP TYPE IF EXISTS "FileVisibility";

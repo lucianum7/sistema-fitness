@@ -1,0 +1,5 @@
+ALTER TABLE "NutritionPlan"
+ADD COLUMN "schedule" JSONB NOT NULL DEFAULT '[]',
+ADD COLUMN "durationDays" INTEGER NOT NULL DEFAULT 7,
+ADD COLUMN "generationMode" TEXT NOT NULL DEFAULT 'standard',
+ADD COLUMN "requestText" TEXT;

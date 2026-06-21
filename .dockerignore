@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+.env.*
+!.env.example
+storage
+backups
+coverage
+npm-debug.log*
+Dockerfile
+docker-compose.yml

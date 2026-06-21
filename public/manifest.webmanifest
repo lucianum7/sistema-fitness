@@ -1,0 +1,15 @@
+{
+  "name": "Sistema Fitness — Treino, dieta e evolução",
+  "short_name": "Sistema Fitness",
+  "description": "Treino, alimentação, hidratação, sono e evolução corporal em um só app.",
+  "start_url": "/painel",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101412",
+  "theme_color": "#0f8f6a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
