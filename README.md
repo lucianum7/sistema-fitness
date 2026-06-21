@@ -38,10 +38,6 @@ npm run build
 
 As bases de conteudo, dados pessoais, arquivos privados, credenciais e backups nao fazem parte deste repositorio.
 
-## Aviso
-
-As estimativas e os materiais apresentados servem como apoio ao acompanhamento. Eles nao substituem avaliacao medica, nutricional ou profissional presencial.
-
 ## Direitos
 
 Projeto demonstrativo. Todos os direitos reservados.
